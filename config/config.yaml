@@ -77,7 +77,7 @@ platforms:
     name: "Product Hunt"
   - id: "zhihu"
     name: "知乎"
-  - id: "36kr-quick"
+  - id: "36kr"
     name: "36Kr"
 #  - id: "xueqiu-hotstock"
 #    name: "雪球"
