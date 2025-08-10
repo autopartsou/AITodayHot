@@ -76,7 +76,7 @@ platforms:
   - id: "hackernews"
     name: "Hacker News"
   - id: "github-trending-today"
-    name: "Github"
+    name: "GitHub Trending"
   - id: "producthunt"
     name: "Product Hunt"
 #  - id: "xueqiu-hotstock"
