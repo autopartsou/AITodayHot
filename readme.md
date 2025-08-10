@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎯TrendRadar
+# 🎯AITodayHot
 
 <strong>🚀 最快一分钟部署的热点助手 —— 告别无效刷屏，只看真正关心的新闻资讯</strong>
 
@@ -22,54 +22,13 @@
 
 > 本项目以轻量，易部署为目标，主要处理 issues
 >
-> 遇到问题提 issues，或【硅基茶水间】公众号留言
 >
 > **Fork** 的同时，如果觉得有帮助，请顺手点个 ⭐️ **Star**，感谢支持
 
-<details>
-<summary><strong>👉 点击查看致谢名单</strong></summary>
-<br>
 
 ### 数据支持
 
 本项目使用了 [newsnow](https://github.com/ourongxing/newsnow) 项目提供的 API 接口获取多平台数据
-
-### 推广助力
-
-> 感谢以下平台和个人的推荐，让更多用户发现这个工具
-
-- [小众软件](https://mp.weixin.qq.com/s/fvutkJ_NPUelSW9OGK39aA) - 软件推荐平台的精准用户推送
-- [阮一峰周刊](https://github.com/ruanyf/weekly) - 技术圈影响力周刊的收录推荐
-- [LinuxDo 社区](https://linux.do/) - 技术爱好者的试用与反馈
-- 各微信群、QQ群 - 用户间的分享和传播
-
-### 观众支持
-
-> 感谢以下热心观众的信任与支持
-
-|           点赞人            |  金额  |  日期  |             备注             |
-| :-------------------------: | :----: | :----: | :-----------------------: |
-|           S*o            |  1  | 2025.8.05 |   支持一下        |
-|           *侠            |  10  | 2025.8.04 |           |
-|           x*x            |  2  | 2025.8.03 |  trendRadar 好项目 点赞          |
-|           *远            |  1  | 2025.8.01 |            |
-|           *邪            |  5  | 2025.8.01 |            |
-|           *梦            |  0.1  | 2025.7.30 |            |
-|           **龙            |  10  | 2025.7.29 |      支持一下      |
-
-<details>
-<summary><strong>👉 "手机推送通知系列" 挖坑</strong></summary>
-<br>
-
-截图中只支持一个渠道，大家有什么好的建议和想法可以公众号留言，完善好后开源
-
-<img src="_image/next.jpg" width="300" title="github"/>
-
-</details>
-
-
-</details>
-
 
 ## ✨ 核心功能
 
@@ -119,7 +78,7 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 
 **典型场景：** 股市投资监控、品牌舆情追踪、行业动态关注、生活资讯获取
 
-**💡 提示：** 想要**实时更新**的网页版？进入你的仓库 Settings → Pages，启用 GitHub Pages。比如我这里[TrendRadar](https://sansan0.github.io/TrendRadar/)。
+**💡 提示：** 想要**实时更新**的网页版？进入你的仓库 Settings → Pages，启用 GitHub Pages。
 
 
 | Github Pages效果 | 飞书推送效果 |
@@ -679,7 +638,7 @@ platforms:
 
 |公众号关注 |微信点赞 | 支付宝点赞 |
 |:---:|:---:|:---:| 
-| <img src="_image/weixin.png" width="300" title="硅基茶水间"/> | <img src="https://cdn-1258574687.cos.ap-shanghai.myqcloud.com/img/%2F2025%2F07%2F17%2F2ae0a88d98079f7e876c2b4dc85233c6-9e8025.JPG" width="300" title="微信支付"/> | <img src="https://cdn-1258574687.cos.ap-shanghai.myqcloud.com/img/%2F2025%2F07%2F17%2Fed4f20ab8e35be51f8e84c94e6e239b4-fe4947.JPG" width="300" title="支付宝支付"/> |
+| <img src="_image/weixin.png" width="300" title="硅基茶水间"/> | <img src="_image/wx.png" width="300" title="微信支付"/> | <img src="_image/zfb.png" width="300" title="支付宝支付"/> |
 
 </div>
 
